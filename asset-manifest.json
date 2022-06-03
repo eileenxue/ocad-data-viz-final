@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ocad-data-viz-final/static/css/main.14de3837.css",
-    "main.js": "/ocad-data-viz-final/static/js/main.0d448e3f.js",
+    "main.css": "/ocad-data-viz-final/static/css/main.9e995b71.css",
+    "main.js": "/ocad-data-viz-final/static/js/main.e3e8078e.js",
     "static/js/787.1e1073d6.chunk.js": "/ocad-data-viz-final/static/js/787.1e1073d6.chunk.js",
     "index.html": "/ocad-data-viz-final/index.html",
-    "main.14de3837.css.map": "/ocad-data-viz-final/static/css/main.14de3837.css.map",
-    "main.0d448e3f.js.map": "/ocad-data-viz-final/static/js/main.0d448e3f.js.map",
+    "main.9e995b71.css.map": "/ocad-data-viz-final/static/css/main.9e995b71.css.map",
+    "main.e3e8078e.js.map": "/ocad-data-viz-final/static/js/main.e3e8078e.js.map",
     "787.1e1073d6.chunk.js.map": "/ocad-data-viz-final/static/js/787.1e1073d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14de3837.css",
-    "static/js/main.0d448e3f.js"
+    "static/css/main.9e995b71.css",
+    "static/js/main.e3e8078e.js"
   ]
 }
